@@ -18,3 +18,4 @@ Some features I would like to implement:
 * Basic shadow mapping
 * Try implementing basic ray tracing on compute shader
 * N-bodies implementation (movement on compute)
+* Voxel based terrain rendering
